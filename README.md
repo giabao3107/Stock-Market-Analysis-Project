@@ -9,6 +9,7 @@ The primary goal of this project is to comparatively evaluate the effectiveness 
 
 
 **Idea**
+
 The project draws inspiration from [@venky14](https://github.com/venky14). By integrating these elements, the project aims to develop advanced analytical tools and methodologies for robust stock performance evaluation and forecasting.
 
 
