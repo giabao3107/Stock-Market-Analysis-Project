@@ -8,8 +8,6 @@ Stock Market Analysis and Prediction is a project focused on technical analysis,
 The primary goal of this project is to comparatively evaluate the effectiveness of prediction algorithms on stock market data, gain actionable insights through visualization, and forecast future stock behavior and associated risks. By integrating concepts of Data Mining and Statistics, the project serves as a comprehensive exploration of stock market analytics. It extensively uses NumPy, Pandas, and Data Visualization Libraries to achieve these objectives.
 
 
-**Idea**
 
-The project draws inspiration from [@venky14](https://github.com/venky14). By integrating these elements, the project aims to develop advanced analytical tools and methodologies for robust stock performance evaluation and forecasting.
 
 
